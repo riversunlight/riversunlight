@@ -1,16 +1,34 @@
-### Hi there 👋
+# 自己紹介しま~す(英語分からないんで日本語で)
 
-<!--
-**riversunlight/riversunlight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+プログラミングが好きな125(riversunlight,RSL)です。  
+よろしくお願いします。(?)
 
-Here are some ideas to get you started:
+## 言語
+現在:C/C++ Ruby 以上(すくな!)  
+将来的に: Python Rust Perl C# Java PHP JS etc..
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 競技プログラミング
+ドはまり中!!(Atcoderのコンテストがない時はぶちぎれてます)  
+AtCoder 茶色  
+CodeFocus やりたいけど信頼性とかが(加えて英語ほとんど読めない)  
+
+## ライブラリ、フレームワーク
+現在: DxRuby 以上!!!!!(すくなとか言ったらどうなるかわかるよね?)  
+将来的に:　便利だったり楽しかったりするやつがあればやる予定
+
+
+### ID、ユーザー名
+
+| サイト、アプリ名 | 名前、ID                    |
+|      ----       |   ----                     |
+|github           | riversunlight(見りゃわかる) |
+|AtCoder          | ebi125                     |
+|Twitter          |　やると廃人になり安いタイプ<BR>なのでやってません |
+|CodeFoucus       | やろうかなと考え中           |
+|qiita            |　やろうかなと考え中(炎上とかが怖い) |
+
+###  謝罪
+過度な発言をしてしまいましたが、個人的に少しでも味を出そうとした結果です。  
+ご容赦ください(結局謝罪してない（笑）)  
+
+プログラミングが好きな人とつながりたいので、よかったらフォローお願いします。(もちろんTwitterではなくgithubで)
