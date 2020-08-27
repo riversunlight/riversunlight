@@ -1,5 +1,4 @@
 # 自己紹介しま~す(英語分からないんで日本語で)
-https://drive.google.com/drive/folders/1oU3dOS_8q64PykhBkEsFnrepyNhorKJc
 プログラミングが好きな125(riversunlight,RSL)です。  
 よろしくお願いします。(?)
 
@@ -9,7 +8,7 @@ https://drive.google.com/drive/folders/1oU3dOS_8q64PykhBkEsFnrepyNhorKJc
 
 ## 競技プログラミング
 ドはまり中!!(Atcoderのコンテストがない時はぶちぎれてます)  
-AtCoder 緑色  
+AtCoder 茶色  
 CodeFocus 登録しただけ(英語分からないから多分解けない)  
 
 ## ライブラリ、フレームワーク
